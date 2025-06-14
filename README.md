@@ -5,3 +5,5 @@ A fully made modpack including Orespawn, superhero armor, mutant beasts, twiligh
 Tested on forge 14.23.5.2859
 
 Minecraft Java 1.12.2
+
+Server files on Curseforge [here](https://legacy.curseforge.com/minecraft/modpacks/orespawn-modpack-with-server-files), they don't fit on github :(
